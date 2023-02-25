@@ -10,7 +10,7 @@ function Projects() {
       title: "Online Examination System",
       img: photo1,
       gLink: "https://github.com/prasenjeetmahato/Online-Examination-System",
-      lLink: "https://github.com/prasenjeetmahato/",
+      lLink: "https://github.com/prasenjeetmahato/Online-Examination-System",
       desc: `The universities are shut due to the lockdown imposed by the government in order to contain the deadly novel coronavirus. In order to stay connected with the students and prevent the academic loss, most of the colleges and universities are conducting their classes online and also opting for online examination systems.
 
       So, imagine a scenario where all of your students are sitting at home in this quarantine environment and you want to conduct exams for those students.
@@ -20,8 +20,8 @@ function Projects() {
     {
       title: "My Portfolio",
       img: photo2,
-      gLink: "https://github.com/prasenjeetmahato/",
-      lLink: "https://github.com/prasenjeetmahato/",
+      gLink: "https://github.com/prasenjeetmahato/My-Portfolio",
+      lLink: "https://github.com/prasenjeetmahato/My-Portfolio",
       desc: `A portfolio is simply a generic term for a grouping of things. Depending on the context and industry, it can be a collection of assets, products or other items. A portfolio in project management refers to a grouping of projects, and programs. It can also include other project-related activities and responsibilities. The purpose of a portfolio is to establish centralized management and oversight for many projects and programs.`
     },
   ]);
