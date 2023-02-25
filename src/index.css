@@ -136,7 +136,10 @@ header .mobile-links {
   background: transparent;
 }
 .banner:hover .banner-img img {
-  transform: scale(1.2);
+  transform: rotateY(360deg);
+  transition: 0.9s;
+  transition-delay: 1.5s;
+  transition-property:all;
 }
 /* =========== Banner */
 
