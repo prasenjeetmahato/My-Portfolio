@@ -135,6 +135,9 @@ header .mobile-links {
 .banner .banner-content .btn:hover {
   background: transparent;
 }
+.banner:hover .banner-img img {
+  transform: scale(1.2);
+}
 /* =========== Banner */
 
 .services-experience {
